@@ -1,6 +1,6 @@
 # Predict GDP Growth rate using Supervised Machine learning
 
-![GDP Growth](GDP_Groth.png)
+![GDP Growth](GDP_Growth.png)
 
 ## Table of Contents
 
@@ -8,8 +8,8 @@
 - [Dataset](#dataset)
 - [Requirements](#Requirements)
 - [Installations](#Installations)
-- [File description](#File Description)
-- [Result summary](#Result summary)
+- [File description](#file-description)
+- [Result summary](#Result-summary)
 
 ### Project Motivation
 
