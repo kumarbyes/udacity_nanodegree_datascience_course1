@@ -12,5 +12,6 @@ This datascience project is used to predict the GDP growth rate of a country usi
 
 # Installations
 
-'''bash
+'''
 pip install -r requirements.txt
+'''
