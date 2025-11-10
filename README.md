@@ -45,6 +45,7 @@ Following files are available in the github repository to succesfully run the co
 1. **Project_Supervised_ML.ipynb**: This is primary file containing all the relevant python code for project. At each point in the notebook, markdown cells are added to explain the process or inform about the inference.
 2. **Requirements.txt**: Python libraries used in the project for pip install
 3. **sample4.csv**: Csv file containing the data needed for the machine learning models
+4. **submission.txt**: submission for udacity
 
 ### Result Summary
 
