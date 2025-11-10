@@ -60,4 +60,4 @@ Thanks to the following websites :
 - Investopedia for this [blog](https://www.investopedia.com/ask/answers/112814/why-does-inflation-increase-gdp-growth.asp)
 - [GeekfforGeeks](https://www.geeksforgeeks.org/data-science/detect-and-remove-the-outliers-using-python/) for the blogpost about outlier removal
 
-No license attached to this jupyter notebook. Feel free to use the code as you would like! If in case you learned something, you give me credits or share the medium post.
+No license attached to this jupyter notebook. Feel free to use the code as you would like! If in case you learned something, you can give me credits or share the medium post.
