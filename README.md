@@ -10,6 +10,7 @@
 - [Installations](#Installations)
 - [File description](#file-description)
 - [Result summary](#Result-summary)
+- [Licensing, Authors, Acknowledgements](#Licensing-Authors-Acknowledgements)
 
 ### Project Motivation
 
@@ -47,4 +48,16 @@ Following files are available in the github repository to succesfully run the co
 
 ### Result Summary
 
-After performing exploratory data analysis, we could see that gross capital formation has a direct relationship to GDP growth rate. This was further confimred by both the models. Out of the two, random forest seems to score better on evaluation metrics like mean square error and root mean square error. Especially, on root mean square error it does way better than linear regression. Out of the two, random forest comes out as a clear winner when you want to make prediction. From the SAHP analysis, we can see that these features **Individuals using the internet, Domestic credit to private sector by banks, Gross capital formation and exports of goods & servcies** are imporatnt in the decision making process. More about the analysis you can find in this [Postonmedium](medium.com) on medium.
+After performing exploratory data analysis, we could see that gross capital formation has a direct relationship to GDP growth rate. This was further confimred by both the models. Out of the two, random forest seems to score better on evaluation metrics like mean square error and root mean square error. Especially, on root mean square error it does way better than linear regression. Out of the two, random forest comes out as a clear winner when you want to make prediction. From the SAHP analysis, we can see that these features **Individuals using the internet, Domestic credit to private sector by banks, Gross capital formation and exports of goods & servcies** are imporatnt in the decision making process. More about the analysis you can find in this [Post](https://medium.com/@kumar.byes/understanding-which-factors-affect-gdp-growth-rate-using-sklearn-831874927d6f) on medium.
+
+### Licensing, Authors, Acknowledgements
+
+Thanks to the following websites :
+
+- [Databank](https://databank.worldbank.org/) to provide the data for zero cost
+- [SHAP documentation](https://shap.readthedocs.io/) for the explaining the concepts in detail
+- Sklearn documentation
+- Investopedia for this [blog](https://www.investopedia.com/ask/answers/112814/why-does-inflation-increase-gdp-growth.asp)
+- [GeekfforGeeks](https://www.geeksforgeeks.org/data-science/detect-and-remove-the-outliers-using-python/) for the blogpost about outlier removal
+
+No license attached to this jupyter notebook. Feel free to use the code as you would like! If in case you learned something, you give me credits or share the medium post.
